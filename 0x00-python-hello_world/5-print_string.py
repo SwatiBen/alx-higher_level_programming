@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-str = "Swati Daniel Benjiman"
+str = "SwatiDaniel Benjamin"
 print(3 * str)
 print(str[:9])
